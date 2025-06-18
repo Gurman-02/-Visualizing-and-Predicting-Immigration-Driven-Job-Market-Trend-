@@ -1,4 +1,4 @@
-
+This is a fork of original project that I contributed to
 # AI-Project
 ## Job Vacancy Prediction using Sentiment Analysis of Immigration Policies
 This project predicts Ontario's job vacancies and unemployment rates using a SARIMAX-based predictive model. The model incorporates sentiment analysis of immigration policies to enhance forecasting accuracy, achieving an 8-9% improvement. Key features include:
